@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS-C++\\TAREAS2526\\TAREAS2526.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS\\semana02\\TAREAS2526.csproj",
       "projectName": "TAREAS2526",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS-C++\\TAREAS2526\\TAREAS2526.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS\\semana02\\TAREAS2526.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS-C++\\TAREAS2526\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\ESTRUCTURA DE DATOS\\semana02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
