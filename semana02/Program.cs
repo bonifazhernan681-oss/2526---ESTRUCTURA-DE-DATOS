@@ -5,6 +5,7 @@
 // ESTUDIANTE: [TU NOMBRE AQUÍ]
 // CURSO: Programación Orientada a Objetos
 // FECHA: Diciembre 2025
+// TAREA
 // ====================================================
 
 // ----------------------------------------------------
